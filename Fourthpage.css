@@ -1,0 +1,13 @@
+/* FourthPage.css */
+
+.FourthPage {
+  width: 100%; /* Adjust the width of the carousel container */
+  margin: 0 auto; /* Center the carousel */
+}
+
+.card img {
+  max-width: 250%; /* Ensure images don't exceed the container width */
+  max-height: 300px; /* Set a maximum height for the images */
+  width:350px;
+}
+
